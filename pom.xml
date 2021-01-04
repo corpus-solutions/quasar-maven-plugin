@@ -66,7 +66,7 @@
         <maven-api.version>3.3.3</maven-api.version>
         <maven-annotations.version>3.3</maven-annotations.version>
         <plugin.maven-compiler.version>3.3</plugin.maven-compiler.version>
-        <plugin.maven-plugin.version>3.4</plugin.maven-plugin.version>
+        <plugin.maven-plugin.version>3.6</plugin.maven-plugin.version>
         <plugin.maven-release-plugin.version>2.5.3</plugin.maven-release-plugin.version>
         <plugin.gpg.version>1.6</plugin.gpg.version>
         <plugin.javadoc.version>2.10.3</plugin.javadoc.version>
